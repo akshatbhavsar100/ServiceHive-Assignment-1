@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 
@@ -47,7 +47,7 @@ py tests/test_components.py
 
 ---
 
-## 🧪 Example Conversation
+##  Example Conversation
 
 ```
 You: Hi, tell me about your pricing.
@@ -135,7 +135,7 @@ py debug_knowledge.py
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### LLM Configuration
 
@@ -200,7 +200,7 @@ The RAG pipeline uses **keyword-overlap scoring** over a local `knowledge_base.j
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 autostream-agent/
@@ -221,7 +221,7 @@ autostream-agent/
 
 ---
 
-## 💬 WhatsApp Deployment via Webhooks
+##  WhatsApp Deployment via Webhooks
 
 To deploy this agent on WhatsApp, the following architecture would be used:
 
@@ -291,7 +291,7 @@ This architecture supports horizontal scaling — multiple server instances shar
 
 ---
 
-## ✅ Evaluation Checklist
+##  Evaluation Checklist
 
 | Criterion | Implementation |
 |---|---|
